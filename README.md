@@ -16,7 +16,7 @@ AND and OR gates do this?
 How do computers "think" at all?
 How does a boolean logic circuit
 calculate a simple arithmetic sum such as "3+4"?
-The answer is, of course, carying between digits.
+The answer is, of course, carrying between digits.
 
 Can we explain all this -- carrying and its significance --
 to an eight-year-old?
